@@ -42,6 +42,9 @@ There are 14 different data files, including circuits, constructors, drivers, ra
 
 ![Charts](images/charts/constructors.png)
 
+### Drivers Who Most Often Reach Q3
+
+![Charts](images/charts/q3_chart.png)
 
 ## 💪 Skills Used
 
@@ -55,6 +58,7 @@ There are 14 different data files, including circuits, constructors, drivers, ra
 2. **Power Pivot**
    - 2.1 Data Modeling (Relationships)
    - 2.2 Measures
+   - 2.3 DAX Language
 3. **Other Skills:**
    - 3.1 PivotTables
    - 3.2 PivotCharts
