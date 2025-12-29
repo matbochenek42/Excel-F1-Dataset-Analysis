@@ -40,11 +40,15 @@ There are 14 different data files, including circuits, constructors, drivers, ra
 
 ### Constructors Comparision: Races With and Without Points
 
-![Charts](images/charts/constructors.png)
+![Chart3](images/charts/constructors.png)
 
 ### Drivers Who Most Often Reach Q3
 
-![Charts](images/charts/q3_chart.png)
+![Chart4](images/charts/q3_chart.png)
+
+### Does driver tend to finish higher than his grid positions? (comparision for only one driver chosen in the slicer)
+
+![Chart5](images/charts/grid_vs_race_place.png)
 
 ## 💪 Skills Used
 
