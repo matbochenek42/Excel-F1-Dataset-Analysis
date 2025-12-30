@@ -46,7 +46,7 @@ There are 14 different data files, including circuits, constructors, drivers, ra
 
 ![Chart4](images/charts/q3_chart.png)
 
-### Does driver tend to finish higher than his grid positions? (comparision for only one driver chosen in the slicer)
+### Does driver tend to finish higher than his grid positions? (comparision for only one driver selected in the slicer)
 
 ![Chart5](images/charts/grid_vs_race_place.png)
 
