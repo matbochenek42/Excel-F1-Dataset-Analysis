@@ -32,23 +32,57 @@ There are 14 different data files, including circuits, constructors, drivers, ra
 
 ### Nationalities that have been the most successful in F1
 
+**Visualization:**
+
 ![Chart1](images/charts/nationalities.png)
+
+**Insights:**
+
+F1 is dominated by British drivers. They have scored the most points (more than 12 000) and the highest total number of drivers (around 450). Another nationality that stands out is German, with around 8000 points scored by fewer than 200 drivers. Other countries in the top 10 are mainly European nationalities, with the exception of Australian, Brazilian and Mexican.   
 
 ### Average Pit Stops Duration Over the Years 
 
+**Visualization:**
+
 ![Chart2](images/charts/race_tracks.png)
+
+**Insights:**
+
+Pit stops duration in F1 are extremely rapid nowadays, although the fastest ones occurred at the beginning of 2010s and then again in 2025 (around 23 seconds per pit stop). As far as I can tell, the biggest impact comes from team coordination, race tracks (different pit lanes length or speed limit rules) and random incidents. There haven't been any significant changes in F1 rules that influanced pit stops duration itself in the past couple of years. 
+
+The chart can be filtered by race track.
+
+**Note:** Pit stop time includes pit lane entry, service, and exit. 
 
 ### Constructors Comparision: Races With and Without Points
 
+**Visualization:**
+
 ![Chart3](images/charts/constructors.png)
+
+**Insights:**
+
+Overall, the OG constructors have the most races in F1: Ferrari, McLaren and Williams. Unfortunately, Williams has finished over 50% races without scoring any points, due to the decline of the team in recent decades. It is worth noting that drivers from two modern teams - Red Bull and Mercedes - tend to finish most races with some points.
 
 ### Drivers Who Most Often Reach Q3
 
+**Visualization:**
+
 ![Chart4](images/charts/q3_chart.png)
+
+**Insights:**
+
+Drivers who reach Q3 most often are Verstappen and Hamilton, with a ratio of almost 90%. Two rookies, Antonelli and Hadjar, deserve praise for achieving a remarkably high ratio despite their lack of experience in F1. 
 
 ### Does driver tend to finish higher than his grid positions? (comparision for only one driver selected in the slicer)
 
+**Visualization:**
+
 ![Chart5](images/charts/grid_vs_race_place.png)
+
+**Insights:**
+
+For instance, D. Ricciardo finished higher than his grid position only three times.
 
 ## 💪 Skills Used
 
