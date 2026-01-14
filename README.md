@@ -57,7 +57,6 @@ The chart can be filtered by race track.
 ### Constructors Comparision: Races With and Without Points
 
 **Visualization:**
-
 ![Chart3](images/charts/constructors.png)
 
 **Insights:**
