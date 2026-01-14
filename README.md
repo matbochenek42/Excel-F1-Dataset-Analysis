@@ -57,6 +57,7 @@ The chart can be filtered by race track.
 ### Constructors Comparision: Races With and Without Points
 
 **Visualization:**
+
 ![Chart3](images/charts/constructors.png)
 
 **Insights:**
@@ -86,20 +87,20 @@ For instance, D. Ricciardo finished higher than his grid position only three tim
 ## 💪 Skills Used
 
 1. **Power Query**
-   - 1.1 Merging Queries
-   - 1.2 Adding Conditional Columns
-   - 1.3 Removing and Duplicating Columns
-   - 1.4 Group By
-   - 1.5 Changing Data Types
-   - 1.6 Data transformations within rows
+   - Merging Queries
+   - Adding Conditional Columns
+   - Removing and Duplicating Columns
+   - Group By
+   - Changing Data Types
+   - Data transformations within rows
 2. **Power Pivot**
-   - 2.1 Data Modeling (Relationships)
-   - 2.2 Measures
-   - 2.3 DAX Language
+   - Data Modeling (Relationships)
+   - Measures
+   - DAX Language
 3. **Other Skills:**
-   - 3.1 PivotTables
-   - 3.2 PivotCharts
-   - 3.3 Slicers
+   - PivotTables
+   - PivotCharts
+   - Slicers
 
 ## 🔗 Data Source
 [Kaggle Formula 1 World Championship (1950 - 2024)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) 
