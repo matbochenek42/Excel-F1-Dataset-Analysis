@@ -64,6 +64,8 @@ The chart can be filtered by race track.
 
 Overall, the OG constructors have the most races in F1: Ferrari, McLaren and Williams. Unfortunately, Williams has finished over 50% races without scoring any points, due to the decline of the team in recent decades. It is worth noting that drivers from two modern teams - Red Bull and Mercedes - tend to finish most races with some points.
 
+The chart can be filtered by the nationality of the constructors.
+
 ### Drivers Who Most Often Reach Q3
 
 **Visualization:**
